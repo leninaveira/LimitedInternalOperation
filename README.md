@@ -1,4 +1,4 @@
 iex - para começar
 IO. -> input output module
-write
-puts
+IO.write #imprime
+IO.puts #imprime e pula linha
