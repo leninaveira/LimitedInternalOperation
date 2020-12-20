@@ -1,0 +1,17 @@
+iex(6)> [error: :fatal]
+[error: :fatal]
+iex(7)> respostas = %{{:tobias, :banho} => :cheiroso, {:dutra, :brincando} => :fofinho}
+%{{:dutra, :brincando} => :fofinho, {:tobias, :banho} => :cheiroso}
+iex(8)> respostas
+%{{:dutra, :brincando} => :fofinho, {:tobias, :banho} => :cheiroso}
+[1, 1, 1]
+iex(3)> {1, error: :fatal, busy: :retry}
+{1, [error: :fatal, busy: :retry]}
+iex(4)> {1, error: :fatal, busy: :retry}
+{1, [error: :fatal, busy: :retry]}
+iex(5)> [error: :fatal, busy: :retry]
+[error: :fatal, busy: :retry]
+iex(19)> [error: :fatal]
+[error: :fatal]
+iex(20)> [error: :fatal, busy: :retry]
+[error: :fatal, busy: :retry]tip
